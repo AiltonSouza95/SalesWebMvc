@@ -1,0 +1,13 @@
+C:\Users\ailto\Documents\Projetos\SalesWebMVC\SalesWebMvc.Infra\bin\Debug\netcoreapp3.1\SalesWebMvc.Infra.deps.json
+C:\Users\ailto\Documents\Projetos\SalesWebMVC\SalesWebMvc.Infra\bin\Debug\netcoreapp3.1\SalesWebMvc.Infra.dll
+C:\Users\ailto\Documents\Projetos\SalesWebMVC\SalesWebMvc.Infra\bin\Debug\netcoreapp3.1\SalesWebMvc.Infra.pdb
+C:\Users\ailto\Documents\Projetos\SalesWebMVC\SalesWebMvc.Infra\bin\Debug\netcoreapp3.1\SalesWebMvc.Domain.dll
+C:\Users\ailto\Documents\Projetos\SalesWebMVC\SalesWebMvc.Infra\bin\Debug\netcoreapp3.1\SalesWebMvc.Domain.pdb
+C:\Users\ailto\Documents\Projetos\SalesWebMVC\SalesWebMvc.Infra\obj\Debug\netcoreapp3.1\SalesWebMvc.Infra.csproj.AssemblyReference.cache
+C:\Users\ailto\Documents\Projetos\SalesWebMVC\SalesWebMvc.Infra\obj\Debug\netcoreapp3.1\SalesWebMvc.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ailto\Documents\Projetos\SalesWebMVC\SalesWebMvc.Infra\obj\Debug\netcoreapp3.1\SalesWebMvc.Infra.AssemblyInfoInputs.cache
+C:\Users\ailto\Documents\Projetos\SalesWebMVC\SalesWebMvc.Infra\obj\Debug\netcoreapp3.1\SalesWebMvc.Infra.AssemblyInfo.cs
+C:\Users\ailto\Documents\Projetos\SalesWebMVC\SalesWebMvc.Infra\obj\Debug\netcoreapp3.1\SalesWebMvc.Infra.csproj.CoreCompileInputs.cache
+C:\Users\ailto\Documents\Projetos\SalesWebMVC\SalesWebMvc.Infra\obj\Debug\netcoreapp3.1\SalesWebMvc.Infra.csproj.CopyComplete
+C:\Users\ailto\Documents\Projetos\SalesWebMVC\SalesWebMvc.Infra\obj\Debug\netcoreapp3.1\SalesWebMvc.Infra.dll
+C:\Users\ailto\Documents\Projetos\SalesWebMVC\SalesWebMvc.Infra\obj\Debug\netcoreapp3.1\SalesWebMvc.Infra.pdb

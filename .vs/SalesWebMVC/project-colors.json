@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "83bd7347-7aa8-4e2e-b5ba-6447d276821e": {
+      "ProjectGuid": "83bd7347-7aa8-4e2e-b5ba-6447d276821e",
+      "DisplayName": "SalesWebMvc.Domain",
+      "ColorIndex": 0
+    },
+    "16c106b2-ea72-44c6-a24e-65d83917d6ec": {
+      "ProjectGuid": "16c106b2-ea72-44c6-a24e-65d83917d6ec",
+      "DisplayName": "SalesWebMvc.Infra",
+      "ColorIndex": 1
+    },
+    "d1a38d19-46b1-476e-a0e7-563d7d4437f5": {
+      "ProjectGuid": "d1a38d19-46b1-476e-a0e7-563d7d4437f5",
+      "DisplayName": "SalesWebMvc.Application",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "621897f4-9960-431d-a299-c05a5a326496": {
+      "ProjectGuid": "621897f4-9960-431d-a299-c05a5a326496",
+      "DisplayName": "SalesWebMvc",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
